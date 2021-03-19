@@ -1,4 +1,3 @@
-```
 ---
 title:  "我的第一篇文章"
 subtitle: "女性和科技"
@@ -6,7 +5,6 @@ author: "Stella"
 avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/1.jpg"
 ---
-```
 
 # The story between me and technology 
 
