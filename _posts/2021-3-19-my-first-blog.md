@@ -1,7 +1,7 @@
 ---
-title:  "我的第一篇文章"
-subtitle: "女性和科技"
-author: "Stella"
+title:  "A stroy between me and Technology"
+subtitle: "科技改变未来"
+author: "Stella Zhou"
 avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/1.jpg"
 ---
