@@ -3,8 +3,8 @@
 title:  "我的第一篇文章"
 subtitle: "女性和科技"
 author: "Stella"
-avatar: "assets/images/authors/logo.jpg"
-image: "assets/images/1.jpg"
+avatar: "![002]({{ site.baseurl }}/assets/images/2.jpg)"
+image: "![002]({{ site.baseurl }}/assets/images/2.jpg)"
 ---
 ```
 
